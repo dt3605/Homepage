@@ -1,0 +1,41 @@
+/* General styling */
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Headings */
+h1 {
+    color: #343a40;
+    margin-bottom: 20px;
+}
+
+/* Navbar */
+.navbar-nav .nav-link {
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+/* List items */
+.list-group-item {
+    background-color: #e9ecef;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+/* Buttons */
+button {
+    margin-top: 10px;
+}
+
+/* Input and textarea fields */
+input, textarea {
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+    padding: 8px;
+}
+
+/* Hover effect */
+button:hover {
+    opacity: 0.8;
+}
